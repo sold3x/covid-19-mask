@@ -9,3 +9,6 @@ and optimized it in accordance with practical requirements.
 We would be happy to manufacture the mask for you. Please visit https://www.soldex.de for more informations.
 
 If you have your own 3D printer, you are welcome to use our template free of charge.
+
+The mask should be printed completely out of TPU with about 10% infill and a layerheight of youre choice. To get a compareable result, we are using 0.25.
+
