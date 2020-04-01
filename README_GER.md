@@ -19,5 +19,5 @@ Unsere Masken drucken in den genannten Einstellungen ungefähr 4,5-5h, was in et
 Neben dem verstellbaren Band, lässt sich auch das Shield ab Version 5 in verschiedene Rastpositionen bringen. Damit kann der Kopf gerade bei kleineren Personen deutlich freier bewegt werden und bietet gleichzeitig oben weiteren Schutz.
 
 ## Shield
-Wie bereits genannt ist unser Shield deutlich dicker und robuster als die meisten verwendeten Laminierfolien, was sie nachhaltiger und robuster macht. So kann gerade in Kliniken die Maske einfach auseinandergebaut, desinifizeiert und theroretisch an die nächste Schicht übergeben werden ohne ein defektes Shield zu riskieren. 
+Wie bereits genannt ist unser Shield deutlich dicker und robuster als die meisten verwendeten Laminierfolien, was sie nachhaltiger und beständiger macht. So kann gerade in Kliniken die Maske einfach auseinandergebaut, desinifizeiert und theroretisch an die nächste Schicht übergeben werden ohne ein defektes Shield zu riskieren. 
 Außerdem ist es etwas größer und schützt gerade oberhalb des Kopfes weitere Teile des Gesichts.
